@@ -1,0 +1,34 @@
+# Directories
+/.idea/
+/.kdev4/
+/.vscode/
+/bin/
+/cmake-build-debug/
+/Debug/
+/obj/
+/Release/
+/src/csharp/obj/
+/x64/
+
+# File Extensions
+*.com
+*.class
+*.csproj
+*.dll
+*.exe
+*.kdev4
+*.o
+*.out
+*.so
+*.swo
+*.swp
+
+# Specific Files
+._*
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+CMakeLists.txt
+Program.cs
+Thumbs.db
